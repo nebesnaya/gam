@@ -1,0 +1,100 @@
+#wrapper {
+	max-width: 1600px;
+	margin: 0 auto;
+	outline: 1px solid #ccc;
+}
+#top {
+	width: 1600px;
+	height: 10px;
+	background-image: url(top.png);
+	background-repeat: repeat-x;
+}
+#header {
+	width: 1600px;
+	height: 602px;
+	background-image: url(header.png);
+	margin: 0;
+	position: relative;
+}
+#hand {
+	width: 439px;
+	height: 507px;
+	margin-left: 883px;
+	background-image: url(hand.png);
+	position:absolute;
+	bottom:0;
+}
+#notify {
+	width: 183px;
+	height:83px;
+	margin-left: 305px;
+	margin-bottom: 350px;
+	background-image: url(notify.png);
+	position:absolute;
+	bottom:0;
+}
+#text {
+	background-image: url(text.png);
+	width: 453px;
+	height: 59px;
+	margin-left: 305px;
+	margin-bottom: 252px;
+	position:absolute;
+	bottom:0;
+}
+#apple {
+	background-image: url(apple.png);
+	width: 53px;
+	height: 53px;
+	margin-left: 320px;
+	margin-bottom: 171px;
+	position:absolute;
+	bottom:0;
+}
+#android {
+	background-image: url(android.png);
+	width: 54px;
+	height: 53px;
+	margin-left: 392px;
+	margin-bottom: 171px;
+	position:absolute;
+	bottom:0;
+}
+#windows {
+	background-image: url(windows.png);
+	width: 53px;
+	height: 53px;
+	margin-left: 462px;
+	margin-bottom: 171px;
+	position:absolute;
+	bottom:0;
+}
+#features {
+	width: 1600px;
+	height: 334px;
+	margin-top: 610px;
+	margin-left: -890px;
+	position: relative;
+	float: left;
+}
+#editable {
+	background-image: url(editable.png);
+	width: 313px;
+	height: 217px;
+	margin-left: 200px;
+	position:absolute;
+}
+#flat {
+	background-image: url(flat.png);
+	width: 313px;
+	height: 217px;
+	margin-left: 630px;
+	position:absolute;
+}
+#reach {
+	background-image: url(reach.png);
+	width: 313px;
+	height: 217px;
+	margin-left: 1070px;
+	position:absolute;
+}

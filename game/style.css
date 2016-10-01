@@ -1,0 +1,11 @@
+body {
+	width: 100%;
+	background: #7B68EE;
+	background: linear-gradient(to top, #fefcea, #f1da36);
+}
+
+#flower {
+	width: 329px;
+	height: 295px;
+	margin: 30%;
+}
